@@ -1,0 +1,9 @@
+[package]
+name = "app"
+version = "0.1.0"
+authors = ["TheFirstLairron <zrwall@hotmail.com>"]
+
+[dependencies]
+
+[lib]
+crate-type = ["cdylib"]

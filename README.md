@@ -1,0 +1,1 @@
+A web assembly example leveraging the Parcel bundler package to automate web assembly compilation for rust.

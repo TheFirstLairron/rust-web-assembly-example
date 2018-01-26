@@ -1,0 +1,22 @@
+{
+  "name": "web-assembly-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .\\node_modules\\parcel-bundler\\bin\\cli.js ./src/index.html --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "parcel-bundler": "^1.5.0"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
